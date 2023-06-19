@@ -1,0 +1,24 @@
+.btn {
+    color: lightgreen;
+    background-color: black;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.table {
+    margin-top: 10px;
+    width: 100%;
+    position: fixed;
+    bottom: 70px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid black;
+    text-align: center;
+}
